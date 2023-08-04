@@ -12,7 +12,7 @@ If you are interested, the Zomato Clone is a great project that is open source. 
 The MIT License is what Zomato Clone operates under.
 
 # Contact
-Contact us at [email protected] if you have any inquiries regarding the Zomato Clone.
+Contact us at advenakash1912@gmail.com. if you have any inquiries regarding the Zomato Clone.
 
 I learnt HTML and CSS
 I have learnt HTML and CSS, so I can help you with the front-end development of the Zomato Clone project. I am familiar with the basic syntax of HTML and CSS, and I can use them to create a beautiful and user-friendly website for your project.
